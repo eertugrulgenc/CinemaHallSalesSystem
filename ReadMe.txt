@@ -1,0 +1,1 @@
+This is a necessary ticket sales system for movie theaters.The user must select the movie and how many tickets the customer will buy on the day the customer buys the ticket.The ticket price of each movie is specified in the system and there is an opportunity to gain discounts on special days.
